@@ -1,0 +1,15 @@
+﻿{
+  "Author": "Dreanor",
+  "Name": "QuestTTS",
+  "Description": "Text to Speech for Quest text",
+  "InternalName": "QuestTTS",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/dreanor/dalamud-questtts",
+  "Tags": [
+    "TTS",
+    "Quest"
+  ],
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
