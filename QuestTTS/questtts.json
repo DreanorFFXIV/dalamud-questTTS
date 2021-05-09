@@ -1,0 +1,9 @@
+﻿{
+  "Author": "Dreanor",
+  "Name": "QuestTTS",
+  "Description": "Text to Speech for Quest text",
+  "InternalName": "questtts",
+  "AssemblyVersion": "1.0.0.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 3
+}
